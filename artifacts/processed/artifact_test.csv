@@ -1,0 +1,4 @@
+status,msg
+ok,artefato gerado no Colab
+ok,para o Streamlit ler
+ok,sem Spark no app
